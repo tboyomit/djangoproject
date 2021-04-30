@@ -12,5 +12,5 @@ A Django blog app with the following functionalities
 
 -   A comment section for blog posts
 
--   Heroku link
+-   Heroku link : http://herokuzuriblog.herokuapp.com/
 
